@@ -6,6 +6,6 @@ Create dictionary file from list of menu descriptions.
 2. Compile main.cpp by running ```clang++ -o main main.cpp```
 
 # Create dictionary
-1. Run the program using ```./main dict.txt```
+1. Run the program using ```./main description.txt```
 
 # The dictionary file mdict.txt is created in the current working directory.
