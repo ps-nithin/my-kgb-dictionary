@@ -1,7 +1,7 @@
 # my-kgb-dictionary
 Create dictionary file from list of menu descriptions.
 
-# Compiling
+# Compiling the code
 1. Install clang++ by running ```sudo apt-get install clang```
 2. Compile main.cpp by running ```clang++ -o main main.cpp```
 
