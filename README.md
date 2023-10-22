@@ -8,4 +8,4 @@ Create dictionary file from list of menu descriptions.
 # Create dictionary
 1. Run the program using ```./main dict.txt```
 
-# the dictionary file mdict.txt is created in the current working directory.
+# The dictionary file mdict.txt is created in the current working directory.
